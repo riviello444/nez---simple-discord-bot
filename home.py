@@ -32,4 +32,4 @@ async def on_member_remove(member):
 #
 #
  # ~ | the end, hosting
-nez.run("MTA0MTgwNjM4Mzk4Njc3NDAxNw.GQHyuW.G1kIcs88mLAJaQBAV5PRnBww6zylLpRqjx0IQU")
+nez.run("")
