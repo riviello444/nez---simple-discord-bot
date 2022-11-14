@@ -32,4 +32,4 @@ async def on_member_remove(member):
 #
 #
  # ~ | the end, hosting
-nez.run("")
+nez.run("") #you need to paste here your bot's token, you can find it on: https://discord.com/developers/applications
